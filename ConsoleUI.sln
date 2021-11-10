@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{9B3C9F68-3ADC-45ED-9C73-8261B143EC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioDemo", "AudioDemo\AudioDemo.csproj", "{BF43891A-8FB1-46C0-92D0-836F7EA2D9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3C9F68-3ADC-45ED-9C73-8261B143EC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3C9F68-3ADC-45ED-9C73-8261B143EC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3C9F68-3ADC-45ED-9C73-8261B143EC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3C9F68-3ADC-45ED-9C73-8261B143EC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF43891A-8FB1-46C0-92D0-836F7EA2D9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF43891A-8FB1-46C0-92D0-836F7EA2D9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF43891A-8FB1-46C0-92D0-836F7EA2D9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF43891A-8FB1-46C0-92D0-836F7EA2D9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03A878D-AE32-40A1-A1E3-0EE1E80D2C83}
+	EndGlobalSection
+EndGlobal
